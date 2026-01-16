@@ -96,7 +96,7 @@ I'm actively seeking opportunities in software development, cybersecurity resear
 
 ### 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamDQan1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamDQan1&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HamDQan1&theme=tokyonight&hide_border=true&background=0D1117)
 

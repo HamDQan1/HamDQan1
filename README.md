@@ -97,7 +97,7 @@ I'm actively seeking opportunities in software development, cybersecurity resear
 ### 📊 GitHub Activity
 
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=HamDQan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Huthayfa's Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=HamDQan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Huthayfa's Trophies" />
 </a>
 
 <br/>

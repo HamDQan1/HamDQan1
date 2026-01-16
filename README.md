@@ -96,21 +96,19 @@ I'm actively seeking opportunities in software development, cybersecurity resear
 
 ### 📊 GitHub Activity
 
-<a href="https://github.com/HamDQan1">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamDQan1&show_icons=true&theme=radical&timestamp=1" alt="Huthayfa's GitHub Stats" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=HamDQan1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Huthayfa's Trophies" />
 </a>
 
 <br/>
+<br/>
 
-<a href="https://github.com/HamDQan1">
-  <img src="https://streak-stats.demolab.com/?user=HamDQan1&theme=tokyonight&hide_border=true&timestamp=1" alt="Huthayfa's GitHub Streak" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HamDQan1&theme=tokyonight" alt="Profile Details" />
 
 <br/>
 
-<a href="https://github.com/HamDQan1">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamDQan1&layout=compact&theme=tokyonight&hide_border=true&timestamp=1" alt="Huthayfa's Top Languages" />
-</a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HamDQan1&theme=tokyonight" alt="Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HamDQan1&theme=tokyonight" alt="Productive Time" />
 
 ---
 

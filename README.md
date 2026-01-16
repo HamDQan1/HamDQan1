@@ -96,11 +96,21 @@ I'm actively seeking opportunities in software development, cybersecurity resear
 
 ### 📊 GitHub Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HamDQan1&show_icons=true&theme=radical)
+<a href="https://github.com/HamDQan1">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamDQan1&show_icons=true&theme=radical&timestamp=1" alt="Huthayfa's GitHub Stats" />
+</a>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=HamDQan1&theme=tokyonight&hide_border=true&background=0D1117)
+<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamDQan1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
+<a href="https://github.com/HamDQan1">
+  <img src="https://streak-stats.demolab.com/?user=HamDQan1&theme=tokyonight&hide_border=true&timestamp=1" alt="Huthayfa's GitHub Streak" />
+</a>
+
+<br/>
+
+<a href="https://github.com/HamDQan1">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamDQan1&layout=compact&theme=tokyonight&hide_border=true&timestamp=1" alt="Huthayfa's Top Languages" />
+</a>
 
 ---
 
@@ -108,6 +118,6 @@ I'm actively seeking opportunities in software development, cybersecurity resear
 
 **Currently based in Malaysia | Fluent in Arabic & English | Available for remote opportunities**
 
-![Profile Views](https://komarev.com/ghpvc/?username=HamDQan1&color=blueviolet&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=HamDQan1&color=blueviolet&style=flat-square" alt="Profile Views" />
 
 </div>
